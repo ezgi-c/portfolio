@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Ezgi's Portfolio
 
-Make it your own! 
+Visit my portfolio [here](https://ezgi-portfolio.netlify.app/)
