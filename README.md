@@ -21,5 +21,11 @@ Actual time needed to complete: 1.5 hrs
 Number and name of feature: #4 - Skills and Experience Sections
 Estimate of time needed to complete: 1 hrs
 Start time: 5:25pm
-Finish time: 6:05
+Finish time: 6:05pm
 Actual time needed to complete: 30 mins
+
+Number and name of feature: #5 - Personalize
+Estimate of time needed to complete: 1 hrs
+Start time: 7:15pm
+Finish time: 9:15
+Actual time needed to complete: 2 hrs
