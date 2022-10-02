@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import jsIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
   render() {
@@ -25,21 +24,13 @@ class About extends Component {
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
-                  <img
-                    height="250px"
-                    src={profilepic}
-                    alt="Avatar placeholder"
-                  />
+                  <img height="250px" src={profilepic} alt="Ezgi" />
                   <Icon
-                    icon={angularIcon}
+                    icon={jsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -80,7 +71,15 @@ class About extends Component {
                     <span className="wave">{hello} :) </span>
                     <br />
                     <br />
+                    <span id="em">
+                    <img
+                      height="250px"
+                      src="images/uw.png"
+                      alt="Ezgi and Melis"
+                    />
+                    </span>
                     {about}
+
                   </div>
                 </div>
               </div>
